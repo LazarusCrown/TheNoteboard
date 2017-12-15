@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LazarusCrown/TheNoteboard#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "node": "^9.2.0"
   }
 }
