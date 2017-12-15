@@ -1,0 +1,22 @@
+{
+  "name": "thenoteboard",
+  "version": "1.0.0",
+  "description": "The Noteboard is a simple CRUD app. You can use it to build a wall of virtual notes for idea accumulation!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazarusCrown/TheNoteboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LazarusCrown/TheNoteboard/issues"
+  },
+  "homepage": "https://github.com/LazarusCrown/TheNoteboard#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
